@@ -1,4 +1,4 @@
-package parctice;
+package parctice.step1.L4KnowBasicMaths;
 
 /*
 Given a positive integer n, count the number of digits in n that divide n evenly (i.e., without leaving a remainder). Return the total number of such digits.
